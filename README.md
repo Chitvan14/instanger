@@ -1,14 +1,14 @@
 <h2>Hey Developers! Presenting you Instagram Clone. </h2>
 
 <p align="center">
-  <a href="">
+  <a href="https://instanger-65o2.vercel.app/">
  <img src="https://chitvangarg.com/images/projects/banners/socialmedia.jpg" alt="instagram-clone" width="30%" height="30%"/>
   </a>
 </p>
 
 ## 💻Tech Stack
 <h4> <i> This project will be soon be under construction. </i> </h4>
-<!-- <h3>Project Link: <code><a href="https://spotifyclone-bice.vercel.app/"> https://spotifyclone-bice.vercel.app/ </a> </code> </h3> -->
+<h3>Project Link: <code><a href="https://instanger-65o2.vercel.app/"> https://instanger-65o2.vercel.app/ </a> </code> </h3>
  
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
